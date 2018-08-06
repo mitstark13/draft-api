@@ -1,0 +1,19 @@
+{
+  "players": [
+    {
+      "id": 1,
+      "name": "Tim Priller",
+      "points": 12,
+      "rebounds": 6,
+      "assists": 0.8,
+      "total": 18.8,
+      "teamId": 1
+    }
+  ],
+  "teams": [
+  	{
+  	  "id": 1,
+      "school": "Indiana University"
+  	}
+  ]
+}
